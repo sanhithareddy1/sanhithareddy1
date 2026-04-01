@@ -42,7 +42,7 @@ Data Analyst | ML Enthusiast | UB Graduate Student
 ---
 
 ## 🌐 Connect
-[LinkedIn](YOUR_LINKEDIN_LINK) • [GitHub](https://www.linkedin.com/in/sanhitha-reddy/)
+[LinkedIn](https://www.linkedin.com/in/sanhitha-reddy/) • [GitHub](https://github.com/sanhithareddy1)
 
 ---
 
