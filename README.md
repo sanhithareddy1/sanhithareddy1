@@ -11,7 +11,6 @@ Data Analyst | ML Enthusiast | UB Graduate Student
 📊 Interested in Data Analytics & Machine Learning  
 📍 Buffalo, New York  
 
----
 
 ## 🔥 What I Do
 • Data Analysis & Visualization  
